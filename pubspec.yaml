@@ -30,4 +30,3 @@ flutter:
       web:
         pluginClass: MatomoForeverPlugin
         fileName: matomo_forever.dart
-        default_package: matomo_forever
