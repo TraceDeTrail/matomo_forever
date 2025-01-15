@@ -27,15 +27,6 @@ flutter:
         pluginClass: MatomoForeverPlugin
       ios:
         pluginClass: MatomoForeverPlugin
-      macos:
-        pluginClass: MatomoForeverPlugin
-        default_package: matomo_forever
-      linux:
-        pluginClass: MatomoForeverPlugin
-        default_package: matomo_forever
-      windows:
-        pluginClass: MatomoForeverPlugin
-        default_package: matomo_forever
       web:
         pluginClass: MatomoForeverPlugin
         fileName: matomo_forever.dart
